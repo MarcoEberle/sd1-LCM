@@ -1,6 +1,8 @@
 # Least common Multiple
 
-This class represents the least common multiple algorithm.
+This is my solution to the assignment **LCM** of class **software developement 1**, written in Java.
+
+More information can be seen in the comments of the source code.
 
 A multiple of a number is the product of that number and an integer. For example, 10 is a multiple of 5 because 5 × 2 = 10, so 10 is divisible by 5 and 2. Because 10 is the smallest positive integer that is divisible by both 5 and 2, it is the least common multiple of 5 and 2.
 
